@@ -1,0 +1,11 @@
+{
+  "name": "npmmoduledemo",
+  "version": "1.0.0",
+  "description": "Mymodule",
+  "main": "mydatemodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
